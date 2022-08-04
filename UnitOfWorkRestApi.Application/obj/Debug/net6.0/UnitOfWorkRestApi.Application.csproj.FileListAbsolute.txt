@@ -1,5 +1,0 @@
-C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Application\obj\Debug\net6.0\UnitOfWorkRestApi.Application.csproj.AssemblyReference.cache
-C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Application\obj\Debug\net6.0\UnitOfWorkRestApi.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Application\obj\Debug\net6.0\UnitOfWorkRestApi.Application.AssemblyInfoInputs.cache
-C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Application\obj\Debug\net6.0\UnitOfWorkRestApi.Application.AssemblyInfo.cs
-C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Application\obj\Debug\net6.0\UnitOfWorkRestApi.Application.csproj.CoreCompileInputs.cache

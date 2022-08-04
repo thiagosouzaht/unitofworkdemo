@@ -1,0 +1,17 @@
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\bin\Debug\net6.0\UnitOfWorkRestApi.Data.deps.json
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\bin\Debug\net6.0\UnitOfWorkRestApi.Data.runtimeconfig.json
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\bin\Debug\net6.0\UnitOfWorkRestApi.Data.dll
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\bin\Debug\net6.0\UnitOfWorkRestApi.Data.pdb
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\bin\Debug\net6.0\UnitOfWorkRestApi.Domain.dll
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\bin\Debug\net6.0\UnitOfWorkRestApi.Domain.pdb
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.csproj.AssemblyReference.cache
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.AssemblyInfoInputs.cache
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.AssemblyInfo.cs
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.csproj.CopyComplete
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.dll
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\refint\UnitOfWorkRestApi.Data.dll
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.pdb
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\UnitOfWorkRestApi.Data.genruntimeconfig.cache
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Data\obj\Debug\net6.0\ref\UnitOfWorkRestApi.Data.dll

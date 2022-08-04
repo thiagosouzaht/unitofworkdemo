@@ -1,0 +1,12 @@
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\bin\Debug\net6.0\UnitOfWorkRestApi.Domain.deps.json
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\bin\Debug\net6.0\UnitOfWorkRestApi.Domain.dll
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\bin\Debug\net6.0\UnitOfWorkRestApi.Domain.pdb
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\UnitOfWorkRestApi.Domain.csproj.AssemblyReference.cache
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\UnitOfWorkRestApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\UnitOfWorkRestApi.Domain.AssemblyInfoInputs.cache
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\UnitOfWorkRestApi.Domain.AssemblyInfo.cs
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\UnitOfWorkRestApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\UnitOfWorkRestApi.Domain.dll
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\refint\UnitOfWorkRestApi.Domain.dll
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\UnitOfWorkRestApi.Domain.pdb
+C:\Users\010411631\source\repos\UnitOfWorkRestApi\UnitOfWorkRestApi.Domain\obj\Debug\net6.0\ref\UnitOfWorkRestApi.Domain.dll
